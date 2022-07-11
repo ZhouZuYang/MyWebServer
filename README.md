@@ -34,16 +34,6 @@ g++ 7.5.0
 
 当并发量为10000的时候，没有失败的连接
 
-![image](https://github.com/liushuai839/MyWebServer/blob/main/image-20210521204148302.png)
-
-
-
-
-
-
-
-
-
 ## 致谢
 
 Linux 高性能服务器编程，游双著.
